@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/ea5c74f9545cc175bfe9b62acf2fd3f967a715c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f12555b093bfe01586a78dfd8140f9b3a060117/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/c944207c6419a62a1c8d19f1605ef0cf90aad41d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13a4f1ded476c89f05c4d4bb1918e4232dcc275b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/f8c22722f3631d01fb4d9720d296e54f91376d40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3fba1044ce7f773f86813662243c9f65b149483/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/ebfcc97482fe058325f97a84226cb2abac7936ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99c83da5d79c439cf581ebba03d5472da9c798e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/3fe953c9229c947ba9266dc9c4ee9ae46b1204a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35ebc621c475c36365eb028956430817a05f3370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/cfd995ef795e079f73816ec8492a7ff160042766/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e4a7b40ea6fa60762de4b1536a2bf9a6b077b8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_5061a7fe019d7071f262041f1e0b02768e49e2c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d517a18a7eeebf897f9176acf72ad16a77dbe25a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5e70cf822a1c1d01b1a5d56e33573897be5edeea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/d9e4c31d8d3c7a78f65d5c8969bffb9bc5a40151/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43e162647ac85d54bc1f1424266a7c3e97219925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/b4528cdd2145b81537452c80c4b30d1938f75572/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1cd51e9e03c7d669836af8626f6710369ffd04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/66f9118cf64450f437b04f05a5cb21c6390ab442/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ff6e7a503baf0453211580bc4f7bfb25423e19e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="936b9efd27ae94b9b595624e3b889d08e2ceecbb">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d09eb641102ab0f422b1e8352b512897fa85880d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/f4692aaaacc5255dedb275e7cb7dc4d4c36906d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f01d6834443cab611f0362deea172ce634120a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/d4df471cf5f051d1635859d5523d087caaf67fff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30f833880ce2167b825709d894d22f78dec2e783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/d4df5d0b16cf6a591aa7f51fad04ae38a51adb50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_786e65f361a445ac006ccf945aaf0c8e8365e854/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/DANIELCASTELAO/klemavilanova/.android/build-cache/8492e8e272e789e651b68e0cab5929fe666c1342/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/local/DANIELCASTELAO/klemavilanova/AndroidStudioProjects/PruebaActivities/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9071b819507f91b3c2699755b30d14cc140fc66/classes.dex" />
+    </item>
+
+</items>
